@@ -32,7 +32,7 @@ body {
   align-items: center;
   text-align: center;
 
-  color: #fff;
+  color: rgb(255, 255, 255);
   background: #ccff00;
 }
 </style>
